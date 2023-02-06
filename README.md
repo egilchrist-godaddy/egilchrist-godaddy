@@ -9,4 +9,4 @@ Hey it's Ethan. I used to be a journalist, now I code instead! Full-stack Develo
 - Advertising my career - [LinkedIn](https://linkedin.com/in/ethan-gilchrist)
 - Retweets of video game news - [Twitter](https://twitter.com/Ethan_G45)
 - Check out what games I'm playing - [Backloggd](https://backloggd.com/u/Racecode)
-- Check out what music I'm listenting to - [Last.fm](https://www.last.fm/user/EthanG45)
+- Check out what music I'm listening to - [Last.fm](https://www.last.fm/user/EthanG45)
